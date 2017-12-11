@@ -36,7 +36,7 @@ body {
   width: 100%;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   padding-left: 1.4rem;
   padding-right: 1.4rem;
   font-family: "Roboto Condensed", sans-serif;
@@ -77,4 +77,8 @@ body {
 
 .btn-big {
   font-size: 1.5rem;
+}
+
+.btn:hover {
+  background-color: black;
 }
